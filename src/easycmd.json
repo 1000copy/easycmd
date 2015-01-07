@@ -1,0 +1,15 @@
+{
+  "LastSession":{
+	  "LeftPage":
+	  [
+	    {"Dir":"c:\\","Active":false},
+	    {"Dir":"d:\\","Active":true},
+	    {"Dir":"c:\\windows\\","Active":false}
+	  ],
+	  "RightPage":
+	  [
+	    {"Dir":"d:\\","Active":true}, 
+	    {"Dir":"d:\\lcjun\\","Active":true}
+	  ]
+  }
+}
