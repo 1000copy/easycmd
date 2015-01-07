@@ -1,8 +1,8 @@
 object FormMain: TFormMain
-  Left = 159
-  Top = 102
-  Width = 915
-  Height = 589
+  Left = 239
+  Top = 160
+  Width = 445
+  Height = 390
   Caption = 'Easycmd 0.2'
   Color = clBtnFace
   Font.Charset = DEFAULT_CHARSET
@@ -18,7 +18,7 @@ object FormMain: TFormMain
   object pnl1: TPanel
     Left = 0
     Top = 0
-    Width = 907
+    Width = 429
     Height = 12
     Align = alTop
     Color = clBackground

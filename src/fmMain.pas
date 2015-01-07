@@ -34,6 +34,10 @@ var
       end;
   end;
 begin
+  Width := 900;
+  Height :=600;
+  Left:=(Screen.Width-Width)  div 2;
+  Top:=(Screen.Height-Height) div 2;
   Caption := GetappVer ;
   // Init FolderControl
   fc := TFolderControl.Create(self);
